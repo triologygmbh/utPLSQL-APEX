@@ -14,7 +14,7 @@ The Project is completely based on the [utPLSQL Framework](http://utplsql.org/).
 Tests and results can be accessed by developers as well as from project management side. For example test managers can see the test statistics without accessing any development tool, just using the Browser, without asking for DB USER or connection details! Just give them the link to the Application and their personal user.
 
 ## Prerequisites
-[utPLSQL Framework](http://utplsql.org/) installed to your database (we are running v3.1.8 but it may be running with later version as well)
+[utPLSQL Framework](http://utplsql.org/) installed to your database (we are running v3.1.8 but it may be running with later version as well)  
 [APEX Environment](https://apex.oracle.com) (Version 19.1 or later) ready to use in your database.
 
 ## Installation
